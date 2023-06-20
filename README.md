@@ -6,9 +6,11 @@ CineSuggest: Your Ultimate Movie Companion. CineSuggest is a movie recommendatio
 
 TECH STACK :
 React, Node , Express, MongoDB, Bootstrap, html, css.(probably)
-<br/>
+<br/><br/>
 
-# Getting Started with Create React App
+
+# About REACT 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
