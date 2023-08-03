@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+### status - Completed on 2023-07-31
+
+# CineSuggest
+
+CineSuggest: Your Ultimate Movie Companion. CineSuggest is a movie recommendation web app that utilizes cutting-edge algorithms to provide personalized movie suggestions based on your preferences. Explore a vast collection of movies, read reviews, rate your favorites, and connect with a vibrant community of movie enthusiasts. Discover your next cinematic adventure with CineSuggest!"
+
+TECH STACK :
+React, Node , Express, MongoDB, Bootstrap, html, css.(probably)
+<br/>
+
+### note 
+I have some more cool and fascinating ideas to imlement and update this proj later. 
+If u have any suggestion contact me on @shubham.paliwal2413@gmail.com
+
+<br/><br/>
+
+# About REACT 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
