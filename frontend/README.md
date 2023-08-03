@@ -1,19 +1,15 @@
-### status - Completed on 2023-07-31
+# About
+This is the forntend of the project CineSuggest,a movie search, review and recommendation application.
 
-# CineSuggest
 
-CineSuggest: Your Ultimate Movie Companion. CineSuggest is a movie recommendation web app that utilizes cutting-edge algorithms to provide personalized movie suggestions based on your preferences. Explore a vast collection of movies, read reviews, rate your favorites, and connect with a vibrant community of movie enthusiasts. Discover your next cinematic adventure with CineSuggest!"
+# setup 
 
-TECH STACK :
-React, Node , Express, MongoDB, Bootstrap, html, css.
-<br/>
+After cloning the repo go to folder cineSuggest/frontend/>
+type:
+>npm install
 
-### note 
-I have some more cool and fascinating ideas to imlement and update this proj later. 
-If u have any suggestion contact me on @shubham.paliwal2413@gmail.com
-
-<br/><br/>
-
+This will install all require dependencies in 'node modules' named folder and now u are good to go.
+ 
 # About REACT 
 ## Getting Started with Create React App
 

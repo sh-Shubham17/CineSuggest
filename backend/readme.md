@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is the backend of Cine Suggest, a movie search, review and recommendation application.
+This is the backend of Project CineSuggest, a movie search, review and recommendation application.
 
 
 ## Setup
@@ -51,8 +51,8 @@ If you look at config/default.json, you'll see a property called jwtPrivateKey. 
 
 On Mac:
 
-    export vidly_jwtPrivateKey=yourSecureKey
+    export cineSuggest_jwtPrivateKey=yourSecureKey
 
 On Windows:
 
-    set vidly_jwtPrivateKey=yourSecureKey
+    set cineSuggest_jwtPrivateKey=yourSecureKey
