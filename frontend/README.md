@@ -1,5 +1,5 @@
 # About
-This is the forntend of the project CineSuggest,a movie search, review and recommendation application.
+This is the frontend of the project CineSuggest,a movie search, review and recommendation application.
 
 
 # setup 
